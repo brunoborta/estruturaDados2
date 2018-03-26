@@ -48,10 +48,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria
+CMAKE_SOURCE_DIR = /Users/brunobortagaray/CLionProjects/avl_tree
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/brunobortagaray/CLionProjects/avl_tree/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug/CMakeFiles /Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/brunobortagaray/CLionProjects/avl_tree/cmake-build-debug/CMakeFiles /Users/brunobortagaray/CLionProjects/avl_tree/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/brunobortagaray/CLionProjects/avl_tree/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -111,17 +111,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named arvore_binaria
+# Target rules for targets named avl_tree
 
 # Build rule for target.
-arvore_binaria: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 arvore_binaria
-.PHONY : arvore_binaria
+avl_tree: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 avl_tree
+.PHONY : avl_tree
 
 # fast build rule for target.
-arvore_binaria/fast:
-	$(MAKE) -f CMakeFiles/arvore_binaria.dir/build.make CMakeFiles/arvore_binaria.dir/build
-.PHONY : arvore_binaria/fast
+avl_tree/fast:
+	$(MAKE) -f CMakeFiles/avl_tree.dir/build.make CMakeFiles/avl_tree.dir/build
+.PHONY : avl_tree/fast
 
 main.o: main.c.o
 
@@ -129,7 +129,7 @@ main.o: main.c.o
 
 # target to build an object file
 main.c.o:
-	$(MAKE) -f CMakeFiles/arvore_binaria.dir/build.make CMakeFiles/arvore_binaria.dir/main.c.o
+	$(MAKE) -f CMakeFiles/avl_tree.dir/build.make CMakeFiles/avl_tree.dir/main.c.o
 .PHONY : main.c.o
 
 main.i: main.c.i
@@ -138,7 +138,7 @@ main.i: main.c.i
 
 # target to preprocess a source file
 main.c.i:
-	$(MAKE) -f CMakeFiles/arvore_binaria.dir/build.make CMakeFiles/arvore_binaria.dir/main.c.i
+	$(MAKE) -f CMakeFiles/avl_tree.dir/build.make CMakeFiles/avl_tree.dir/main.c.i
 .PHONY : main.c.i
 
 main.s: main.c.s
@@ -147,7 +147,7 @@ main.s: main.c.s
 
 # target to generate assembly for a file
 main.c.s:
-	$(MAKE) -f CMakeFiles/arvore_binaria.dir/build.make CMakeFiles/arvore_binaria.dir/main.c.s
+	$(MAKE) -f CMakeFiles/avl_tree.dir/build.make CMakeFiles/avl_tree.dir/main.c.s
 .PHONY : main.c.s
 
 # Help Target
@@ -158,7 +158,7 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
-	@echo "... arvore_binaria"
+	@echo "... avl_tree"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

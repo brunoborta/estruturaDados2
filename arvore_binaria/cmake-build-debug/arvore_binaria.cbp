@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/brunobortagaray/CLionProjects/arvore_binaria/cmake-build-debug"/>
+				<Option working_dir="/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/brunobortagaray/CLionProjects/arvore_binaria/cmake-build-debug"/>
+				<Option working_dir="/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/brunobortagaray/CLionProjects/arvore_binaria/cmake-build-debug"/>
+				<Option working_dir="/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="arvore_binaria">
-				<Option output="/Users/brunobortagaray/CLionProjects/arvore_binaria/cmake-build-debug/arvore_binaria" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/brunobortagaray/CLionProjects/arvore_binaria/cmake-build-debug"/>
+				<Option output="/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug/arvore_binaria" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 arvore_binaria"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 arvore_binaria"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="arvore_binaria/fast">
-				<Option output="/Users/brunobortagaray/CLionProjects/arvore_binaria/cmake-build-debug/arvore_binaria" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/brunobortagaray/CLionProjects/arvore_binaria/cmake-build-debug"/>
+				<Option output="/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug/arvore_binaria" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,17 +73,17 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 arvore_binaria/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 arvore_binaria/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/brunobortagaray/CLionProjects/arvore_binaria/main.c">
+		<Unit filename="/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/main.c">
 			<Option target="arvore_binaria"/>
 		</Unit>
-		<Unit filename="/Users/brunobortagaray/CLionProjects/arvore_binaria/CMakeLists.txt">
+		<Unit filename="/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

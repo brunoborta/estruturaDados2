@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/main.c" "/Users/brunobortagaray/CLionProjects/estruturaDados2/arvore_binaria/cmake-build-debug/CMakeFiles/arvore_binaria.dir/main.c.o"
+  "/Users/brunobortagaray/CLionProjects/avl_tree/main.c" "/Users/brunobortagaray/CLionProjects/avl_tree/cmake-build-debug/CMakeFiles/avl_tree.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 
