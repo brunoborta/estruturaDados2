@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/brunobortagaray/CLionProjects/estruturaDados2/buscas/buscas/main.c
+stdio.h
+-
+stdlib.h
+-
+sys/time.h
+-
+
